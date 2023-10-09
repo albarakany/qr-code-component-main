@@ -6,6 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Continued development](#continued-development)
@@ -17,6 +18,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![](./screenshot.jpg)
+
+### Links
+
+- Solution URL: [Add solution URL here](https://github.com/albarakany/qr-code-component-main)
+- Live Site URL: [Add live site URL here](https://tiny-youtiao-2ae430.netlify.app/)
+
 ### Built with
 
 - Semantic HTML5 markup
@@ -25,3 +32,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Continued development
 
 Different methods to center thing in page.
+
